@@ -1,4 +1,4 @@
-# Introduction
+# 电源笑传之 Calculation Calculation Boom
 
 一个在电源弱校搞电力电子的苦逼  
 一个坐拥8台仪器的传奇电源组  
