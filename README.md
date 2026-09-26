@@ -1,15 +1,21 @@
-# 电源笑传之 Calculate Calculate Boom
+# 一只沙发上的大懒猫  
 
-一个在电源弱校搞电力电子的苦逼  
-一个坐拥8台仪器的传奇电源组  
+## About Me
 
-2024.2025两年NUEDC参赛经历(24B+25A), 25A国一队长, 电力电子软件/硬件/仿真/调试全栈    
+*B.Eng. in Electrical Engineering* @ Shandong University
 
-技术栈:  
-主控: C2000/FPGA/Zynq  
-语言: C/Verilog  
-软件: CCS/Vivado/Vitis/Quartus  
-硬件: LCEDA/Altium Designer  
-仿真: Matlab-Simulink/PSIM/Plecs/Multisim    
+*M.Eng. in Electrical Engineering* @ Shanghai Jiaotong University
 
-梦想是当一只沙发上的大懒猫  
+NUEDC 2024–2025 participant · 24B / 25A
+- 25A National First Prize · Team Leader
+- Full-stack experience in power electronics software, hardware, simulation, and debugging   
+
+## Technical Skills
+
+| Category            | Technologies                                          |
+| ------------------- | ----------------------------------------------------- |
+| **MCU / FPGA**      | C2000 · FPGA · Zynq                                   |
+| **Programming**     | C · Verilog                                           |
+| **Development**     | Code Composer Studio (CCS) · Vivado · Vitis · Quartus |
+| **Hardware Design** | LCEDA · Altium Designer                               |
+| **Simulation**      | MATLAB/Simulink · PSIM · PLECS · Multisim             |
