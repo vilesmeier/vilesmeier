@@ -2,9 +2,9 @@
 
 ## About Me
 
-*B.Eng. in Electrical Engineering* @ Shandong University
+*B.Eng. in Electrical Engineering* @ Shandong University(2023-2027)
 
-*M.Eng. in Electrical Engineering* @ Shanghai Jiaotong University
+*M.Eng. in Electrical Engineering* @ Shanghai Jiaotong University(2027-2030)
 
 NUEDC 2024–2025 participant · 24B / 25A
 - 25A National First Prize · Team Leader
